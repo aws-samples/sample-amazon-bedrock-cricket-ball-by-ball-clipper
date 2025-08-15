@@ -1,6 +1,6 @@
 # Cricket Ball-by-Ball Analysis and Video Clipper
 
-A comprehensive system for extracting and analyzing cricket information from video streams using OCR, AI analysis, and video processing. The system provides near real-time cricket over and score detection with optional video clipping capabilities.
+A comprehensive system for extracting and analyzing cricket information from video streams using graphics information extraction, AI analysis, and video processing. The system analyzes on-screen cricket graphics and overlays to provide near real-time cricket over and score detection with optional video clipping capabilities.
 
 ## 🏗️ Solution Architecture
 
