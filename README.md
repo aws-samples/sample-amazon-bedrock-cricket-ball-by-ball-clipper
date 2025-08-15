@@ -99,7 +99,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 python main.py video.mp4
 
 # Bottom-left corner (40% width, 30% height) focused for the OCR ( Decided based ont4he score and over graphics)
-python main.py video.mp4 --ocr-region 0.0 0.7 0.4 0.3
+python main.py video.mp4 --ocr-region 0.0 0.8 0.4 0.2
 
 # Skips 3 frames while processing and no CV2 player diaplayed real time for frames.
 python main.py video.mp4 --no-video --frame-skip 3
