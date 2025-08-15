@@ -57,7 +57,11 @@ src/
 - **Python**: 3.8 or higher (3.12 recommended)
 - **Operating System**: Windows, macOS, or Linux
 - Configure AWS Cli for required [credentials](https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-files.html)
-- [IAM Policies for Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/security-iam-awsmanpol.html)
+- [IAM Policies](https://docs.aws.amazon.com/bedrock/latest/userguide/security-iam-awsmanpol.html) for Amazon Bedrock
+- Enable `Nova Lite` Model Access in `us-west-2` Region
+
+> [!CAUTION]
+> AWS Strands looks for the model in us-west-2 region for now.
 
 ## 🚀 Quick Start with UV (Recommended for Deployment)
 
