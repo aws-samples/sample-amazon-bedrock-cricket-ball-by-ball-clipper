@@ -56,6 +56,8 @@ src/
 ### System Requirements
 - **Python**: 3.8 or higher (3.12 recommended)
 - **Operating System**: Windows, macOS, or Linux
+- Configure AWS Cli for required [credentials](https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-files.html)
+- [IAM Policies for Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/security-iam-awsmanpol.html)
 
 ## 🚀 Quick Start with UV (Recommended for Deployment)
 
