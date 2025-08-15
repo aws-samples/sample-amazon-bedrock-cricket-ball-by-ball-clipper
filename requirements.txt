@@ -1,0 +1,10 @@
+# Cricket Ball-by-Ball Analysis and Video Clipper - Requirements
+# Complete dependency list for the cricket analysis system
+
+# Core Computer Vision and OCR
+opencv-python
+easyocr
+strands-agents
+strands-agents-tools
+ffmpeg-python
+moviepy
